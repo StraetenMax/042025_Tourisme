@@ -4,6 +4,7 @@
     <mj-title>Ecosup Tourisme 042025</mj-title>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"/>
     <mj-raw>
+      <meta charset="UTF-8"/>
       <meta name="color-scheme" content="light"/>
       <meta name="supported-color-schemes" content="light"/>
        <meta name="format-detection" content="telephone=no"/>
@@ -54,7 +55,7 @@
     <mj-section padding="20px">
       <mj-column padding="10px">
         <mj-text padding="5px 0" mj-class="T16-400 cT"><span style="font-weight:700;color:#2D3748;">Ecosup Campus</span> et la <span style="font-weight:700;color:#2D3748;">Air Training Academy</span>  <span style="font-style:italic">(Paris)</span> s'associent pour proposer à nos étudiants en BTS tourisme une session d'initiation à l'aéronautique, qui a eu lieu cette semaine sur 4 jours. </mj-text>
-        <mj-text padding="5px 0" mj-class="T16-400 cT">Cette semaine aéronautique qui s'est tenue à l'école fait partie d'un partenariat plus large, impliquant une semaine de mobilité à Toulouse sur les terres d'Airbus  <span style="font-style:italic">(visite des usines d'assemblage, conférences, rencontres avec des professionnels, hôtesses et stewards, visite de Toulouse...)</span> pour nos futurs étudiants en BTS tourisme.</mj-text>
+        <mj-text padding="5px 0" mj-class="T16-400 cT">Cette semaine aéronautique qui s'est tenue à l'école fait partie d'un partenariat plus large, impliquant une <span style="font-weight:700;color:#2D3748;">semaine de mobilité</span> à Toulouse sur les terres d'<span style="font-weight:700;color:#2D3748;">Airbus</span>  <span style="font-style:italic">(visite des usines d'assemblage, conférences, rencontres avec des professionnels, hôtesses et stewards, visite de Toulouse...)</span> pour nos futurs étudiants en BTS tourisme.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0 25px">
@@ -93,7 +94,7 @@
         <mj-text padding="0 25px" mj-class="T14-900 cOf" text-transform="uppercase">Partenaire</mj-text>
         <mj-text padding="0 25px" mj-class="T28-300 cO">Air Training Academy, centre de formation agréé et spécialisé dans les métiers de l'aérien</mj-text>
         <mj-spacer height="10px"></mj-spacer>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">Plus de 30 années d'expérience, <span style="font-weight:700;color:#2D3748;">Air Training Academy</span> est un organisme reconnu pour son expertise dans la formation des équipages de cabine avec les préparations au Cabin Crew Attestation (agrément FR.CCA.06), aux sélections des Compagnies Aériennes PNC et PNT, anglais aéronautique et au TOIEC. Grâce à ce partenariat, vous bénéficiez :</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">Avec plus de 30 années d'expérience, <span style="font-weight:700;color:#2D3748;">Air Training Academy</span> est un organisme reconnu pour son expertise dans la formation des équipages de cabine avec les préparations au Cabin Crew Attestation (agrément FR.CCA.06), aux sélections des Compagnies Aériennes PNC et PNT, anglais aéronautique et au TOIEC. Grâce à ce partenariat, vous bénéficiez :</mj-text>
         <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-weight:700;color:#2D3748;">D'instructeurs expérimentés</span>, issus du secteur aérien et certifiés par la Direction Générale de l'Aviation Civile (DGAC).</mj-text>
         <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-weight:700;color:#2D3748;">D'un encadrement professionnel avec des équipements et infrastructures de pointe</span> pour des mises en situation réalistes.</mj-text>
         <mj-text padding="5px 25px" mj-class="T16-400 cT">[] <span style="font-weight:700;color:#2D3748;">D'un accompagnement vers l'emploi</span> pour maximiser vos chances d'être recruté(e) par une compagnie aérienne dès l'obtention de votre attestation.</mj-text>
@@ -118,28 +119,29 @@
     </mj-section>
     <mj-section padding="0">
       <mj-column width="40%">
-        <mj-text padding="0 25px" mj-class="T14-900 cOf" text-transform="uppercase">Infos clés sur l'aéronautique</mj-text>
+        <mj-text padding="0 25px" mj-class="T14-900 cOf" text-transform="uppercase">Infos clés</mj-text>
         <mj-text padding="0 25px" mj-class="T28-300 cO">Secteur stratégique et mondial</mj-text>
       </mj-column>
       <mj-column width="60%">
         <mj-spacer height="15px"></mj-spacer>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">Acteurs majeurs : Airbus, Boeing, toutes les compagnies aériennes,</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">2 grandes branches:</mj-text>
-        <mj-text padding="5px 25px" padding-left="35px" mj-class="T16-400 cT">Aéronautique civile (transport de passagers, fret),</mj-text>
-        <mj-text padding="5px 25px" padding-left="35px" mj-class="T16-400 cT">Aéronautique militaire (avions de chasse, drones, avions ravitailleurs),</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">Environ 40 000 avions en circulation dans le monde. Un secteur en pleine expansion,</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">En 2024, plus de 4,7 milliards de passagers aériens,</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">Le trafic double tous les 15 à 20 ans, selon l'IATA.</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-size:24px;">&#x1F30D;</span> <span style="font-weight:700;color:#2D3748;">Acteurs majeurs :</span> Airbus, Boeing, toutes les compagnies aériennes,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-size:24px;">&#x1F680;</span> <span style="font-weight:700;color:#2D3748;">2 grandes branches:</span></mj-text>
+        <mj-text padding="0px 25px" padding-left="45px" mj-class="T16-400 cT">&#x1F6EB; Aéronautique civile <span style="font-style:italic;">(transport de passagers, fret)</span>,</mj-text>
+        <mj-text padding="5px 25px" padding-left="45px" mj-class="T16-400 cT">&#x1F6EB; Aéronautique militaire <span style="font-style:italic;">(avions de chasse, drones, avions ravitailleurs)</span>,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-size:24px;">&#x1F6EB;</span> Environ <span style="font-weight:700;color:#2D3748;">40 000 avions en circulation dans le monde</span>. Un secteur en pleine expansion,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-size:24px;">&#x1F30D;</span> En 2024, plus de <span style="font-weight:700;color:#2D3748;">4,7 milliards de passagers aériens</span>,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-size:24px;">&#x1F9F3;</span>Le trafic double tous les 15 à 20 ans, selon l'IATA.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
       <mj-column width="40%">
+        <mj-text padding="0 25px" mj-class="T14-900 cOf" text-transform="uppercase">Infos clés</mj-text>
         <mj-text padding="0 25px" mj-class="T28-300 cO">Économie & industrie</mj-text>
       </mj-column>
       <mj-column width="60%">
         <mj-spacer height="15px"></mj-spacer>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">Chiffre d'affaires mondial de l'aéronautique: ~900 milliards $ (civil + militaire),</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">En France : 300 000 emplois dans la filière aéronautique et spatiale.</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-size:24px;">&#x1F4B0;</span> Chiffre d'affaires mondial de l'aéronautique: <span style="font-weight:700;color:#2D3748;">~900 milliards $</span> <span style="font-style:italic;">(civil + militaire)</span>,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-size:24px">&#x1F1EB;&#x1F1F7;</span> En France : <span style="font-weight:700;color:#2D3748;">300 000 emplois</span> dans la filière aéronautique et spatiale.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#dce6ef" padding="20px 23px 40px 23px">
