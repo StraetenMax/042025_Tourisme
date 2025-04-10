@@ -60,7 +60,7 @@
         <mj-text padding="0" mj-class="T14-900 cOf" text-transform="uppercase">Edito </mj-text>
         <mj-text padding="0" mj-class="T28-300 cO">La rentrée des alternances est lancée&nbsp;!</mj-text>
         <mj-text padding="5px 0" mj-class="T16-400 cT"><span style="font-weight:700;color:#2D3748;">Ecosup Campus</span> et la <span style="font-weight:700;color:#2D3748;">Air Training Academy</span>  <span style="font-style:italic">(Paris)</span> s'associent pour proposer à nos étudiants en BTS tourisme une session d'initiation à l'aéronautique, qui a eu lieu cette semaine sur 4 jours. </mj-text>
-        <mj-text padding="5px 0" mj-class="T16-400 cT">Cette semaine aéronautique qui s'est tenue à l'école fait partie d'un partenariat plus large, impliquant une semaine de mobilité à Toulouse sur les terres d'Airbus  <span style="font-style:italic">(visite des usines d'assemblage, conférences, rencontres avec des professionnels, hôtesses et stewards, visite de Toulouse...)</span> pour nos futurs étudiants en BTS tourisme ainsi qu'une préparation intensive au CCA <span style="font-style:italic">(Cabin Crew Attestation)</span>, sésame indispensable aux métiers de personnel naviguant professionnel.</mj-text>
+        <mj-text padding="5px 0" mj-class="T16-400 cT">Cette semaine aéronautique qui s'est tenue à l'école fait partie d'un partenariat plus large, impliquant une semaine de mobilité à Toulouse sur les terres d'Airbus  <span style="font-style:italic">(visite des usines d'assemblage, conférences, rencontres avec des professionnels, hôtesses et stewards, visite de Toulouse...)</span> pour nos futurs étudiants en BTS tourisme.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0 25px">
@@ -70,14 +70,24 @@
     </mj-section>
     <mj-section padding-top="0">
       <mj-column width="40%">
-        <mj-text padding="0 25px" mj-class="T14-900 cOf" text-transform="uppercase">Dossier</mj-text>
-        <mj-text padding="0 25px" mj-class="T28-300 cO">L'alternance&nbsp;: un modèle éducatif qui a le vent en poupe.</mj-text>
+        <mj-text padding="0 25px" mj-class="T14-900 cOf" text-transform="uppercase">Air Training Academy</mj-text>
+        <mj-text padding="0 25px" mj-class="T28-300 cO">Initiation à l'aéronautique - programme d'intervention</mj-text>
       </mj-column>
       <mj-column width="60%">
         <mj-spacer height="15px"></mj-spacer>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">L'<span style="font-weight:700;color:#2D3748;">alternance</span> combine formation académique et expérience professionnelle rémunérée, offrant une approche pédagogique mélant <span style="font-weight:700;color:#2D3748;">théorie et pratique</span>. Elle favorise l'insertion professionnelle en permettant aux étudiants d'acquérir des <span style="font-weight:700;color:#2D3748;">compétences recherchées</span> et un réseau.</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">Deux contrats existent : <span style="font-weight:700;color:#2D3748;">apprentissage</span> <span style="font-style:italic;">(pour un diplôme)</span> et <span style="font-weight:700;color:#2D3748;">professionnalisation</span> <span style="font-style:italic">(pour l'emploi)</span>. Trouver une école et une entreprise est essentielle. L'<span style="font-weight:700;color:#2D3748;">alternance</span> facilite l'accès à des secteurs porteurs et améliore l'<span style="font-weight:700;color:#2D3748;">employabilité des jeunes</span>.</mj-text>
-        <mj-text padding="10px 25px" align="right" mj-class="T14-700"><a style="color:#EC6608;text-decoration:none;" target="_blank" href="https://ecosup-commerce.fr/alternance-modele-educatif-vent-en-poupe/">En savoir plus...</a></mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">Historique de l'industrie,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">Différents métiers : du Personnel au sol(agents d'escale, agents de sureté...) et les Navigants (hôtesses, stewards, pilotes),</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">Compagnies aériennes,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">Quotidien des professionnels de l'aéronautique,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">Concept d'équipage, hiérarchie, entraide et confiance,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">Gestion du stress et des conflits,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">Gestion du décalage horaire et de la fatigue,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">Aéronautique et empreinte carbone,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">Contexte actuel,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">Potentiel de développement et futur de l'industrie,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">Jeux de rôle,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">Mise en situation,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">Anecdotes.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section direction="rtl">
@@ -86,14 +96,13 @@
       </mj-column>
       <mj-column width="70%">
         <mj-spacer height="20px"></mj-spacer>
-        <mj-text padding="0 25px" mj-class="T14-900 cOf" text-transform="uppercase">Alternance</mj-text>
-        <mj-text padding="0 25px" mj-class="T28-300 cO">Décrocher un contrat d'alternance&nbsp;: 3 étapes clés pour réussir</mj-text>
+        <mj-text padding="0 25px" mj-class="T14-900 cOf" text-transform="uppercase">Partenaire</mj-text>
+        <mj-text padding="0 25px" mj-class="T28-300 cO">Air Training Academy, centre de formation agréé et spécialisé dans les métiers de l'aérien</mj-text>
         <mj-spacer height="10px"></mj-spacer>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-weight:700;color:#2D3748;">Air Training Academy</span> est un organisme reconnu pour son expertise dans la formation des équipages de cabine. Grâce à ce partenariat, vous bénéficiez :</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">Plus de 30 années d'expérience, <span style="font-weight:700;color:#2D3748;">Air Training Academy</span> est un organisme reconnu pour son expertise dans la formation des équipages de cabine avec les préparations au Cabin Crew Attestation (agrément FR.CCA.06), aux sélections des Compagnies Aériennes PNC et PNT, anglais aéronautique et au TOIEC. Grâce à ce partenariat, vous bénéficiez :</mj-text>
         <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-weight:700;color:#2D3748;">D'instructeurs expérimentés</span>, issus du secteur aérien et certifiés par la Direction Générale de l'Aviation Civile (DGAC).</mj-text>
         <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-weight:700;color:#2D3748;">D'un encadrement professionnel avec des équipements et infrastructures de pointe</span> pour des mises en situation réalistes.</mj-text>
         <mj-text padding="5px 25px" mj-class="T16-400 cT">[] <span style="font-weight:700;color:#2D3748;">D'un accompagnement vers l'emploi</span> pour maximiser vos chances d'être recruté(e) par une compagnie aérienne dès l'obtention de votre attestation.</mj-text>
-        <mj-text padding="15px 25px" align="right" mj-class="T14-400"><a style="color:#EC6608;text-decoration:none;" target="_blank" href="https://ecosup-commerce.fr/decrocher-contrat-alternance-3-etapes-cles-pour-reussir/">En savoir plus...</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -127,7 +136,7 @@
     <mj-section background-color="#edf2f7" padding="40px 23px">
       <mj-column width="40%" padding="2px">
         <mj-text padding="0" mj-class="T14-900 cOf" text-transform="uppercase">Partenaires</mj-text>
-        <mj-text padding="0" mj-class="T28-300 cO">Entreprises partenaires qui accueillent nos étudiants</mj-text>
+        <mj-text padding="0" mj-class="T28-300 cO">Entreprises partenaires de l'opération</mj-text>
       </mj-column>
       <mj-group width="60%">
         <mj-column width="100%">
