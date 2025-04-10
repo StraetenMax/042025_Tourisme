@@ -117,6 +117,37 @@
         <mj-text padding="5px 25px" mj-class="T16-400 cT">Responsable pédagogique délégataire au sein d'<span style="font-weight:700;color:#2D3748;">Air Training Académy</span> et <span style="font-weight:700;color:#2D3748;">instructeur Cabin Crew Attestation</span>, Pierre a rencontré nos étudiants en BTS Tourisme pour leur expliquer le métier de l'aéronautique et notamment celui de <span style="font-weight:700;color:#2D3748;">steward</span> et d'<span style="font-weight:700;color:#2D3748;">hôtesse de l'air</span>. Ce passionné d'aviation pilote depuis l'âge de 13 ans en aéro-club&nbsp;!</mj-text>
       </mj-column>
     </mj-section>
+    <mj-section padding="0 25px">
+      <mj-column>
+        <mj-image padding="0" width="550px" src="https://i.ibb.co/23cT3zzm/artCom01.png" target="_blank" href="https://ecosup-commerce.fr/alternance-modele-educatif-vent-en-poupe/" alt="groupe d'étudiants en alternance présentant leur projet."/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column width="40%">
+        <mj-text padding="0 25px" mj-class="T14-900 cOf" text-transform="uppercase">Infos clés sur l'aéronautique</mj-text>
+        <mj-text padding="0 25px" mj-class="T28-300 cO">Secteur stratégique et mondial</mj-text>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-spacer height="15px"></mj-spacer>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">Acteurs majeurs : Airbus, Boeing, toutes les compagnies aériennes,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">2 grandes branches:</mj-text>
+        <mj-text padding="5px 25px" padding-left="35px" mj-class="T16-400 cT">Aéronautique civile (transport de passagers, fret),</mj-text>
+        <mj-text padding="5px 25px" padding-left="35px" mj-class="T16-400 cT">Aéronautique militaire (avions de chasse, drones, avions ravitailleurs),</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">Environ 40 000 avions en circulation dans le monde. Un secteur en pleine expansion,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">En 2024, plus de 4,7 milliards de passagers aériens,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">Le trafic double tous les 15 à 20 ans, selon l'IATA.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column width="40%">
+        <mj-text padding="0 25px" mj-class="T28-300 cO">Économie & industrie</mj-text>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-spacer height="15px"></mj-spacer>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">Chiffre d'affaires mondial de l'aéronautique: ~900 milliards $ (civil + militaire),</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">En France : 300 000 emplois dans la filière aéronautique et spatiale.</mj-text>
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#dce6ef" padding="20px 23px 40px 23px">
       <mj-column width="40%" padding="2px">
         <mj-text padding="0" padding-top="0" mj-class="T14-900 cOf" text-transform="uppercase">Agenda</mj-text>
@@ -125,11 +156,11 @@
       <mj-group width="60%">
         <mj-column width="50%" padding="2px">
           <mj-spacer height="20px"></mj-spacer>
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="170px" src="https://i.ibb.co/JFrhSZBP/af-Jpo032025.png" alt="Affiche de la Journée Portes Ouvertes du samedi 29 mars 2025 de 9h30 à 13h"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="170px" src="https://i.ibb.co/995hM90X/af-Job-Dating15032025.png" alt="Affiche JobDating Hôtellerie Restauration et Tourisme le mardi 15 avril 2025 de 14h à 17h"/>
         </mj-column>
         <mj-column width="50%" padding="2px">
           <mj-spacer height="20px"></mj-spacer>
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="170px" src="https://i.ibb.co/DDQbSdcB/aff-Job-Dating-CI042025.png" alt="Affiche JobDating Commerce et Immobilier le jeudi 17 avril 2025 de 9h30 à 13h"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="170px" src="https://i.ibb.co/4RLtfvSZ/aff-Jpo26042025.png" alt="Affiche de la Journée Portes Ouvertes du samedi 26 avril 2025 de 9h30 à 13h"/>
         </mj-column>
       </mj-group>
     </mj-section>
