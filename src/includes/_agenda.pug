@@ -1,0 +1,22 @@
+//-agenda
+-
+    const affichesList = [
+        {
+            'image':'https://i.ibb.co/JFrhSZBP/af-Jpo032025.png',
+            'alt':'Affiche de la Journée Portes Ouvertes du samedi 29 mars 2025 de 9h30 à 13h'
+        },
+        {
+            'image':'https://i.ibb.co/DDQbSdcB/aff-Job-Dating-CI042025.png',
+            'alt':'Affiche JobDating Commerce et Immobilier le jeudi 17 avril 2025 de 9h30 à 13h'
+        }
+        
+    ]
+mj-section(background-color="#dce6ef" padding="20px 23px 40px 23px")
+    mj-column(width="40%" padding="2px")
+        mj-text(padding='0' padding-top='0'  mj-class="T14-900 cOf" text-transform='uppercase') Agenda
+        mj-text(padding='0' padding-top='0' mj-class="T28-300 cO") Salon et Journées Portes Ouvertes
+    mj-group(width="60%")
+        each affiche in affichesList
+            mj-column( width="50%" padding="2px")
+                mj-spacer(height="20px")
+                mj-image(padding="0" border="none" fluid-on-mobile="true" width="170px" src=affiche.image alt=affiche.alt)/

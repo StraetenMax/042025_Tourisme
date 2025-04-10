@@ -1,0 +1,63 @@
+mjml
+    mj-head
+        mj-title Ecosup Tourisme 042025
+        mj-font(name='Roboto' href='https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap')/
+        mj-raw.
+            <meta name="color-scheme" content="light"/>
+            <meta name="supported-color-schemes" content="light"/>
+             <meta name="format-detection" content="telephone=no"/>
+            <meta name="format-detection" content="date=no"/>
+            <meta name="format-detection" content="address=no"/>
+            <meta name="format-detection" content="email=no"/>
+        mj-attributes
+            mj-all(font-family='Roboto, Arial, Helvetica, sans-serif')/
+            mj-class(name="T28-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="28px" font-weight="300" line-height="30px")/
+            mj-class(name="T14-900" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" font-weight="900" line-height="18px")/
+            mj-class(name="T14-400" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14px" font-weight="400" line-height="18px")/
+            mj-class(name='T16-400' font-family="Roboto, Arial, Helvetica, sans-serif" font-size='16px' font-weight='400' line-height='20px')/
+            mj-class(name='T12-300' font-family="Roboto, Arial, Helvetica, sans-serif" font-size='12px' font-weight='300' line-height='16px')/
+            mj-class(name='T10-300' font-family="Roboto, Arial, Helvetica, sans-serif" font-size='10px' font-weight='300' line-height='14px')/
+            //-color
+            mj-class(name='cT' color='#313c4e')/
+            mj-class(name='cTb' color='#2D3748')/
+            mj-class(name="cO" color="#EC6608")/
+            mj-class(name='cOf' color="#AA3E17")/
+            mj-spacer(height="0")
+        mj-breakpoint(width="480px")
+        mj-style.   
+            @media(max-width: 480px){
+                .espace{
+                    height: 50px !important;
+                }
+            }
+            
+    mj-body(background-color='#edf2f7')
+        //- content
+        block content
+        //- edito
+        block edito
+            include ../includes/_edito
+        //- article01
+        block dossier
+            include ../includes/_dossier
+        //- article02
+        block article02
+            include ../includes/_article02
+        //- article03
+        block article03
+            include ../includes/_article03
+        //- agenda
+        block agenda
+            include ../includes/_agenda
+        //- logo partenaires
+        block partenaires
+            include ../includes/_partenaires
+        //- réseaux sociaux
+        block resociaux
+            include ../includes/_resociaux
+        //- adresse
+        block adresse
+            include ../includes/_adresse
+        //- reglement
+        block reglement
+            include ../includes/_reglement

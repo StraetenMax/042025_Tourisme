@@ -1,0 +1,13 @@
+mj-section(background-color="#edf2f7" padding="40px 23px")
+    mj-column(width="40%" padding="2px")
+        mj-text(padding='0' mj-class="T14-900 cOf" text-transform='uppercase') Partenaires
+        mj-text(padding='0' mj-class="T28-300 cO") Entreprises partenaires qui accueillent nos étudiants
+    mj-group(width="60%")
+        mj-column(width="100%")
+            mj-spacer(height="20px")
+        each logo in logosList1
+            mj-column( width="25%" padding="2px")
+                mj-image(padding="0" fluid-on-mobile="true" width="120px" src=logo.icon alt=logo.alt)/ 
+        each logo in logosList2
+            mj-column( width="25%" padding="2px")
+                mj-image(padding="0" fluid-on-mobile="true" width="120px" src=logo.icon alt=logo.alt)/ 
