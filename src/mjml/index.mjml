@@ -70,19 +70,19 @@
       </mj-column>
       <mj-column width="60%">
         <mj-spacer height="15px"></mj-spacer>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">Historique de l'industrie,</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">Différents métiers : du Personnel au sol(agents d'escale, agents de sureté...) et les Navigants (hôtesses, stewards, pilotes),</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">Compagnies aériennes,</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">Quotidien des professionnels de l'aéronautique,</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">Concept d'équipage, hiérarchie, entraide et confiance,</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">Gestion du stress et des conflits,</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">Gestion du décalage horaire et de la fatigue,</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">Aéronautique et empreinte carbone,</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">Contexte actuel,</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">Potentiel de développement et futur de l'industrie,</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">Jeux de rôle,</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">Mise en situation,</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">Anecdotes.</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Historique de l'industrie, </mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Différents métiers : du Personnel au sol(agents d'escale, agents de sureté...) et les Navigants (hôtesses, stewards, pilotes),</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Compagnies aériennes,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Quotidien des professionnels de l'aéronautique,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Concept d'équipage, hiérarchie, entraide et confiance,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Gestion du stress et des conflits,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Gestion du décalage horaire et de la fatigue,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Aéronautique et empreinte carbone,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Contexte actuel,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Potentiel de développement et futur de l'industrie,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span>Jeux de rôle,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Mise en situation,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Anecdotes.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section direction="rtl">
@@ -95,9 +95,9 @@
         <mj-text padding="0 25px" mj-class="T28-300 cO">Air Training Academy, centre de formation agréé et spécialisé dans les métiers de l'aérien</mj-text>
         <mj-spacer height="10px"></mj-spacer>
         <mj-text padding="5px 25px" mj-class="T16-400 cT">Avec plus de 30 années d'expérience, <span style="font-weight:700;color:#2D3748;">Air Training Academy</span> est un organisme reconnu pour son expertise dans la formation des équipages de cabine avec les préparations au Cabin Crew Attestation (agrément FR.CCA.06), aux sélections des Compagnies Aériennes PNC et PNT, anglais aéronautique et au TOIEC. Grâce à ce partenariat, vous bénéficiez :</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-weight:700;color:#2D3748;">D'instructeurs expérimentés</span>, issus du secteur aérien et certifiés par la Direction Générale de l'Aviation Civile (DGAC).</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-weight:700;color:#2D3748;">D'un encadrement professionnel avec des équipements et infrastructures de pointe</span> pour des mises en situation réalistes.</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">[] <span style="font-weight:700;color:#2D3748;">D'un accompagnement vers l'emploi</span> pour maximiser vos chances d'être recruté(e) par une compagnie aérienne dès l'obtention de votre attestation.</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x25CF;</span> <span style="font-weight:700;color:#2D3748;">D'instructeurs expérimentés</span>, issus du secteur aérien et certifiés par la Direction Générale de l'Aviation Civile (DGAC).</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x25CF;</span> <span style="font-weight:700;color:#2D3748;">D'un encadrement professionnel avec des équipements et infrastructures de pointe</span> pour des mises en situation réalistes.</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x25CF;</span> <span style="font-weight:700;color:#2D3748;">D'un accompagnement vers l'emploi</span> pour maximiser vos chances d'être recruté(e) par une compagnie aérienne dès l'obtention de votre attestation.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
