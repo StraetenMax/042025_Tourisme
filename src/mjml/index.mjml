@@ -112,18 +112,19 @@
         <mj-text padding="5px 25px" mj-class="T16-400 cT">Responsable pédagogique délégataire au sein d'<span style="font-weight:700;color:#2D3748;">Air Training Académy</span> et <span style="font-weight:700;color:#2D3748;">instructeur Cabin Crew Attestation</span>, Pierre a rencontré nos étudiants en BTS Tourisme pour leur expliquer le métier de l'aéronautique et notamment celui de <span style="font-weight:700;color:#2D3748;">steward</span> et d'<span style="font-weight:700;color:#2D3748;">hôtesse de l'air</span>. Ce passionné d'aviation pilote depuis l'âge de 13 ans en aéro-club&nbsp;!</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="0 25px">
-      <mj-column>
-        <mj-image padding="0" width="550px" src="https://i.ibb.co/23cT3zzm/artCom01.png" target="_blank" href="https://ecosup-commerce.fr/alternance-modele-educatif-vent-en-poupe/" alt="groupe d'étudiants en alternance présentant leur projet."/>
+    <mj-section direction="rtl">
+      <mj-column width="50%">
+        <mj-image padding="0" width="250px" src="https://i.ibb.co/vhVvnnz/Hotesse-Air.jpg" alt=""></mj-image>
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-text padding="0 25px" mj-class="T14-900 cOf" text-transform="uppercase">Infos clés</mj-text>
+        <mj-text padding="0 25px" mj-class="T28-300 cO">Économie & industrie</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-size:24px;">&#x1F4B0;</span> Chiffre d'affaires mondial de l'aéronautique: <span style="font-weight:700;color:#2D3748;">~900 milliards $</span> <span style="font-style:italic;">(civil + militaire)</span>,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-size:24px">&#x1F1EB;&#x1F1F7;</span> En France : <span style="font-weight:700;color:#2D3748;">300 000 emplois</span> dans la filière aéronautique et spatiale.</mj-text>
       </mj-column>
-    </mj-section>
-    <mj-section padding="0">
-      <mj-column width="40%">
+      <mj-column width="50%">
+        <mj-spacer height="20px"></mj-spacer>
         <mj-text padding="0 25px" mj-class="T14-900 cOf" text-transform="uppercase">Infos clés</mj-text>
         <mj-text padding="0 25px" mj-class="T28-300 cO">Secteur stratégique et mondial</mj-text>
-      </mj-column>
-      <mj-column width="60%">
-        <mj-spacer height="15px"></mj-spacer>
         <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-size:24px;">&#x1F30D;</span> <span style="font-weight:700;color:#2D3748;">Acteurs majeurs :</span> Airbus, Boeing, toutes les compagnies aériennes,</mj-text>
         <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-size:24px;">&#x1F680;</span> <span style="font-weight:700;color:#2D3748;">2 grandes branches:</span></mj-text>
         <mj-text padding="0px 25px" padding-left="45px" mj-class="T16-400 cT">&#x1F6EB; Aéronautique civile <span style="font-style:italic;">(transport de passagers, fret)</span>,</mj-text>
@@ -131,17 +132,6 @@
         <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-size:24px;">&#x1F6EB;</span> Environ <span style="font-weight:700;color:#2D3748;">40 000 avions en circulation dans le monde</span>. Un secteur en pleine expansion,</mj-text>
         <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-size:24px;">&#x1F30D;</span> En 2024, plus de <span style="font-weight:700;color:#2D3748;">4,7 milliards de passagers aériens</span>,</mj-text>
         <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-size:24px;">&#x1F9F3;</span>Le trafic double tous les 15 à 20 ans, selon l'IATA.</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="0">
-      <mj-column width="40%">
-        <mj-text padding="0 25px" mj-class="T14-900 cOf" text-transform="uppercase">Infos clés</mj-text>
-        <mj-text padding="0 25px" mj-class="T28-300 cO">Économie & industrie</mj-text>
-      </mj-column>
-      <mj-column width="60%">
-        <mj-spacer height="15px"></mj-spacer>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-size:24px;">&#x1F4B0;</span> Chiffre d'affaires mondial de l'aéronautique: <span style="font-weight:700;color:#2D3748;">~900 milliards $</span> <span style="font-style:italic;">(civil + militaire)</span>,</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="font-size:24px">&#x1F1EB;&#x1F1F7;</span> En France : <span style="font-weight:700;color:#2D3748;">300 000 emplois</span> dans la filière aéronautique et spatiale.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#dce6ef" padding="20px 23px 40px 23px">
