@@ -43,7 +43,7 @@
           <mj-text align="left" mj-class="T14-900" color="#ffffff">Avril 2025</mj-text>
         </mj-column>
         <mj-column vertical-align="middle">
-          <mj-image align="right" width="70px" src="https://i.ibb.co/G09QhCx/logo-BNIjpo12142024.png" alt="BNI(Business Network International) association d'entrepreneurs et partenaire Ecosup Campus"></mj-image>
+          <mj-image align="right" width="100px" src="https://i.ibb.co/JndJbtQ/Logo-Tourisme-Blanc.png" alt="Ecosup Tourisme, formations BTS, Bachelor et Mastère"></mj-image>
         </mj-column>
       </mj-group>
     </mj-section>
@@ -54,20 +54,20 @@
     </mj-section>
     <mj-section padding="20px">
       <mj-column padding="10px">
-        <mj-text padding="5px 0" mj-class="T16-400 cT"><span style="font-weight:700;color:#2D3748;">Ecosup Campus</span> et la <span style="font-weight:700;color:#2D3748;">Air Training Academy</span>  <span style="font-style:italic">(Paris)</span> s'associent pour proposer à nos étudiants en BTS tourisme une session d'initiation à l'aéronautique, qui a eu lieu cette semaine sur 4 jours. </mj-text>
-        <mj-text padding="5px 0" mj-class="T16-400 cT">Cette semaine aéronautique qui s'est tenue à l'école fait partie d'un partenariat plus large, impliquant une <span style="font-weight:700;color:#2D3748;">semaine de mobilité</span> à Toulouse sur les terres d'<span style="font-weight:700;color:#2D3748;">Airbus</span>  <span style="font-style:italic">(visite des usines d'assemblage, conférences, rencontres avec des professionnels, hôtesses et stewards, visite de Toulouse...)</span> pour nos futurs étudiants en BTS tourisme.</mj-text>
+        <mj-text padding="5px 0" mj-class="T16-400 cT"><span style="font-weight:700;color:#2D3748;">Ecosup Campus</span> et <span style="font-weight:700;color:#2D3748;">Air Training Academy</span>  <span style="font-style:italic">(Paris)</span> s'associent pour proposer à nos étudiants en BTS tourisme une session d'initiation à l'aéronautique, qui a eu lieu cette semaine sur 4 jours. </mj-text>
+        <mj-text padding="5px 0" mj-class="T16-400 cT">Cette semaine aéronautique qui s'est tenue à l'école fait partie d'un partenariat plus large, impliquant une <span style="font-weight:700;color:#2D3748;">semaine de mobilité</span> à Toulouse sur les terres d'<span style="font-weight:700;color:#2D3748;">Airbus</span>  <span style="font-style:italic">(visites, conférences, rencontres avec des professionnels, hôtesses et stewards, visite de Toulouse...)</span> pour nos futurs étudiants en BTS tourisme.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column width="50%">
+      <mj-column width="40%">
         <mj-image padding="0" width="300px" src="https://i.ibb.co/8447Wj9y/let042025-T04.jpg" target="_blank" href="https://ecosup-commerce.fr/alternance-modele-educatif-vent-en-poupe/" alt="groupe d'étudiants en alternance présentant leur projet."/>
       </mj-column>
-      <mj-column width="50%">
+      <mj-column width="60%">
         <mj-spacer height="15px"></mj-spacer>
         <mj-text padding="0 25px" mj-class="T14-900 cOf" text-transform="uppercase">Air Training Academy</mj-text>
-        <mj-text padding="0 25px" mj-class="T28-300 cO">Initiation à l'aéronautique - programme d'intervention</mj-text>
+        <mj-text padding="0 25px" mj-class="T28-300 cO" letter-spacing="-1px">Initiation à l'aéronautique programme d'intervention</mj-text>
         <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Historique de l'industrie, </mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Différents métiers : du Personnel au sol(agents d'escale, agents de sureté...) et les Navigants (hôtesses, stewards, pilotes),</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Différents métiers : Personnel au sol(agents d'escale, agents de sureté...) et les Navigants (hôtesses, stewards, pilotes),</mj-text>
         <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Compagnies aériennes,</mj-text>
         <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Quotidien des professionnels de l'aéronautique,</mj-text>
         <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Concept d'équipage, hiérarchie, entraide et confiance,</mj-text>
@@ -76,21 +76,21 @@
         <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Aéronautique et empreinte carbone,</mj-text>
         <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Contexte actuel,</mj-text>
         <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Potentiel de développement et futur de l'industrie,</mj-text>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span>Jeux de rôle,</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span>Jeux de rôles,</mj-text>
         <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Mise en situation,</mj-text>
         <mj-text padding="5px 25px" mj-class="T16-400 cT"><span style="color:#a8c1d7;">&#x27A4;</span> Anecdotes.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section direction="rtl">
-      <mj-column width="45%">
+      <mj-column width="40%">
         <mj-image padding="0" width="300px" src="https://i.ibb.co/WpxCVSLm/let042025-T03.jpg" alt="Alternant en entreprise accompagné de ses tuteurs"/>
       </mj-column>
-      <mj-column width="55%">
+      <mj-column width="60%">
         <mj-spacer height="20px"></mj-spacer>
         <mj-text padding="0 25px" mj-class="T14-900 cOf" text-transform="uppercase">Partenaire</mj-text>
         <mj-text padding="0 25px" mj-class="T28-300 cO">Air Training Academy, centre de formation agréé et spécialisé dans les métiers de l'aérien</mj-text>
         <mj-spacer height="10px"></mj-spacer>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">Avec plus de 30 années d'expérience, <span style="font-weight:700;color:#2D3748;">Air Training Academy</span> est un organisme reconnu pour son expertise dans la formation des équipages de cabine avec les préparations au Cabin Crew Attestation (agrément FR.CCA.06), aux sélections des Compagnies Aériennes PNC et PNT, anglais aéronautique et au TOIEC. </mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">Avec plus de 30 années d'expérience, <span style="font-weight:700;color:#2D3748;">Air Training Academy</span> est un organisme reconnu pour son expertise dans la formation des équipages de cabine avec les préparations au <span style="font-weight:700;color:#2D3748;">Cabin Crew Attestation</span> <span style="font-style:italic;">(agrément FR.CCA.06)</span>, aux sélections des Compagnies Aériennes PNC et PNT, anglais aéronautique et au TOIEC. </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -102,7 +102,7 @@
         <mj-text padding="0 25px" mj-class="T14-900 cOf" text-transform="uppercase">Portrait</mj-text>
         <mj-text padding="0 25px" mj-class="T28-300 cO">Pierre Buffet, formateur chez Air Training Academy</mj-text>
         <mj-spacer height="10px"></mj-spacer>
-        <mj-text padding="5px 25px" mj-class="T16-400 cT">Responsable pédagogique délégataire au sein d'<span style="font-weight:700;color:#2D3748;">Air Training Académy</span> et <span style="font-weight:700;color:#2D3748;">instructeur Cabin Crew Attestation</span>, Pierre a rencontré nos étudiants en BTS Tourisme pour leur expliquer le métier de l'aéronautique et notamment celui de <span style="font-weight:700;color:#2D3748;">steward</span> et d'<span style="font-weight:700;color:#2D3748;">hôtesse de l'air</span>. Ce passionné d'aviation pilote depuis l'âge de 13 ans en aéro-club&nbsp;!</mj-text>
+        <mj-text padding="5px 25px" mj-class="T16-400 cT">Responsable pédagogique délégataire au sein d'<span style="font-weight:700;color:#2D3748;">Air Training Académy</span> et <span style="font-weight:700;color:#2D3748;">instructeur Cabin Crew Attestation</span>, Pierre a rencontré nos étudiants en BTS Tourisme pour leur expliquer le métier de l'aéronautique et notamment celui de <span style="font-weight:700;color:#2D3748;">steward</span> et d'<span style="font-weight:700;color:#2D3748;">hôtesse de l'air</span>. Ce passionné d'aviation est pilote depuis l'âge de 13 ans en aéro-club&nbsp;!</mj-text>
       </mj-column>
     </mj-section>
     <mj-section direction="rtl">
@@ -152,29 +152,14 @@
         <mj-column width="100%">
           <mj-spacer height="20px"></mj-spacer>
         </mj-column>
-        <mj-column width="25%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="120px" src="https://i.ibb.co/m5fGDdH9/asimmobilier.png" alt="logo As immobilier"/> 
+        <mj-column width="33.333333%" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="120px" src="https://i.ibb.co/Mxd8R8hX/logo-Air-Training.png" alt="logo Air Training academy"/> 
         </mj-column>
-        <mj-column width="25%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="120px" src="https://i.ibb.co/RT7svVGw/Guy-Hoquet.png" alt="logo Guy Hoquet"/> 
+        <mj-column width="33.333333%" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="120px" src="https://i.ibb.co/DPMwL9dN/logo-Airbus.png" alt="logo Airbus"/> 
         </mj-column>
-        <mj-column width="25%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="120px" src="https://i.ibb.co/5W7zjxDW/inspire-Immo.png" alt="logo Inspire immo"/> 
-        </mj-column>
-        <mj-column width="25%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="120px" src="https://i.ibb.co/nsQmgbZf/Keller-Williams.png" alt="logo KW Keller Williams immobilier"/> 
-        </mj-column>
-        <mj-column width="25%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="120px" src="https://i.ibb.co/Q3z81kGm/courtage-Precision.png" alt="logo Précision Courtage"/> 
-        </mj-column>
-        <mj-column width="25%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="120px" src="https://i.ibb.co/ymVLXh1y/vilogia.png" alt="logo Boulanger Electroménager"/> 
-        </mj-column>
-        <mj-column width="25%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="120px" src="https://i.ibb.co/ZR1QvwgS/partenord.png" alt="logo partenord Habitat"/> 
-        </mj-column>
-        <mj-column width="25%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="120px" src="https://i.ibb.co/C3j6bZrx/LMH.png" alt="logo Lille Métropole Habitat"/> 
+        <mj-column width="33.333333%" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="120px" src="https://i.ibb.co/yF0QSV1c/logo-Aeroport-Lesquin.png" alt="logo aeroport de Lille"/> 
         </mj-column>
       </mj-group>
     </mj-section>
